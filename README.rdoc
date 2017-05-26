@@ -1,4 +1,4 @@
-Suggestotron
+
 
 A voting application made during Railsbridge New York. Creates a database of topics that have a title and description. It allows user to:
 - view the topics sorted by number of votes
